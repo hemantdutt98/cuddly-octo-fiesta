@@ -1,0 +1,55 @@
+.body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
+#jumbo{
+	background-color: #7952b3;
+	color:white;
+	padding: 30px 20px 30px 20px;
+}
+.pad{
+	padding: 50px 30px 50px 30px;
+	
+}
+#jumbo1{
+	background-color: #e6b3ff;
+	margin-top: 50px;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.pad2{
+	padding: 10px;
+}
+#jumbo2{
+	background-color: #7952b3;
+	color:white;
+	padding: 30px 20px 30px 20px;
+}
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
